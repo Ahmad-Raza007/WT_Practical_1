@@ -1,2 +1,2 @@
 # WT_Practical_1
-static bebsite
+static website
